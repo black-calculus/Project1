@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Main Data/Libraries/Documents/_University/ASU/_Classes/Fall 2020/Data Structures & Algorithms/Project 1/Source Code/Project1/main.cpp
+iostream
+-
+string
+-
+
